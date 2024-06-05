@@ -1,14 +1,10 @@
 body 
 {
-<style>
- h1 {text-align: center;}
- h3 {text-align: center;}
- h4 {text-align: center;}
- </style> 
   color:#c2be7c;
-  background-color: white;
+  background-color:#faebd7;
 .crimson-text-semibold {
   font-family: "Crimson Text", serif;
   font-weight: 600;
   font-style: normal;
+  font-size: 70%
 }
