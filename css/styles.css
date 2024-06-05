@@ -1,7 +1,10 @@
 body 
-
 {
-  style="text-align:center;"
+<style>
+ h1 {text-align: center;}
+ h3 {text-align: center;}
+ h4 {text-align: center;}
+ </style> 
   color:#c2be7c;
   background-color: white;
 .crimson-text-semibold {
