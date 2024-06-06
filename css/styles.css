@@ -1,5 +1,18 @@
-body 
-{
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: #c2be7c;
+  text-align: center;
+}
+
+h3 {
+  color: #d29397;
+  text-align: center;
+}
+
+p {
   color:#c2be7c;
   background-color:white;
 .crimson-text-semibold {
